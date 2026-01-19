@@ -31,6 +31,7 @@ BASE_URL =[
     "https://www.shiksha.com/college/iit-jammu-indian-institute-of-technology-53791",
     "https://www.shiksha.com/college/iit-tirupati-indian-institute-of-technology-chittoor-53834",
     "https://www.shiksha.com/university/manipal-university-jaipur-38039",
+    "https://www.shiksha.com/college/manipal-institute-of-technology-mahe-3225",
     "https://www.shiksha.com/university/madan-mohan-malviya-university-of-technology-gorakhpur-42983",
     "https://www.shiksha.com/university/iist-indian-institute-of-space-science-and-technology-thiruvananthapuram-25141",
     "https://www.shiksha.com/university/mnnit-allahabad-motilal-nehru-national-institute-of-technology-24357",
